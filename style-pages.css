@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #000020;
+    font-family: sans-serif;
+    background-image: url(./images/earth-sunrise.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #ffff;
+}
